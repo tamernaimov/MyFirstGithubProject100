@@ -23,6 +23,7 @@ public class Main {
         //second change
 
         //this is my sixth commit testggg
+        //Another quick test
     }
     public static void getNums(String numString) {
         Scanner scanner = new Scanner(System.in);
